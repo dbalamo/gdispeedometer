@@ -1,0 +1,10 @@
+C:\DEV\csharp\TestUSerControlSln\TestUCApp\bin\Debug\TestUCApp.exe.config
+C:\DEV\csharp\TestUSerControlSln\TestUCApp\bin\Debug\TestUCApp.exe
+C:\DEV\csharp\TestUSerControlSln\TestUCApp\bin\Debug\TestUCApp.pdb
+C:\DEV\csharp\TestUSerControlSln\TestUCApp\obj\Debug\TestUCApp.Form1.resources
+C:\DEV\csharp\TestUSerControlSln\TestUCApp\obj\Debug\TestUCApp.Properties.Resources.resources
+C:\DEV\csharp\TestUSerControlSln\TestUCApp\obj\Debug\TestUCApp.Speedometer.resources
+C:\DEV\csharp\TestUSerControlSln\TestUCApp\obj\Debug\TestUCApp.csproj.GenerateResource.cache
+C:\DEV\csharp\TestUSerControlSln\TestUCApp\obj\Debug\TestUCApp.csproj.CoreCompileInputs.cache
+C:\DEV\csharp\TestUSerControlSln\TestUCApp\obj\Debug\TestUCApp.exe
+C:\DEV\csharp\TestUSerControlSln\TestUCApp\obj\Debug\TestUCApp.pdb
